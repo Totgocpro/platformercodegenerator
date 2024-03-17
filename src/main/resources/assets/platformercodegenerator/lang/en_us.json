@@ -1,0 +1,11 @@
+{
+  "gui.platformercodegenerator.gendata_ui.label_sizez": "SizeZ",
+  "gui.platformercodegenerator.gendata_ui.label_sizey": "SizeY",
+  "gui.platformercodegenerator.gendata_ui.label_sizex": "SizeX",
+  "gui.platformercodegenerator.gendata_ui.SizeY": "",
+  "gui.platformercodegenerator.gendata_ui.SizeZ": "",
+  "gui.platformercodegenerator.gendata_ui.SizeX": "",
+  "gui.platformercodegenerator.gendata_ui.button_generate": "Generate",
+  "gui.platformercodegenerator.gendata_ui.label_generate_code": "Generate code",
+  "key.platformercodegenerator.startgenerate": "Startgenerate"
+}
